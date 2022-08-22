@@ -1,0 +1,13 @@
+店家
+
+五十嵐          test123@123.com	   test1234
+麻古茶坊	test321@eee.com	   test1234
+古早味紅茶	test456@111.com	   123456
+清新	        111111@222.com	   333333
+回憶小時候	22222@123123.com   222222
+
+
+使用者
+
+test1@test.com	test1234
+test2@test.com	test1234

@@ -1,0 +1,69 @@
+C:\Users\iii\Desktop\C_shap\上課\作業\drink shop\drink shop\bin\Debug\drink shop.exe.config
+C:\Users\iii\Desktop\C_shap\上課\作業\drink shop\drink shop\bin\Debug\drink shop.exe
+C:\Users\iii\Desktop\C_shap\上課\作業\drink shop\drink shop\bin\Debug\drink shop.pdb
+C:\Users\iii\Desktop\C_shap\上課\作業\drink shop\drink shop\obj\Debug\drink shop.csproj.AssemblyReference.cache
+C:\Users\iii\Desktop\C_shap\上課\作業\drink shop\drink shop\obj\Debug\drink_shop.Form1.resources
+C:\Users\iii\Desktop\C_shap\上課\作業\drink shop\drink shop\obj\Debug\drink_shop.Properties.Resources.resources
+C:\Users\iii\Desktop\C_shap\上課\作業\drink shop\drink shop\obj\Debug\drink shop.csproj.GenerateResource.cache
+C:\Users\iii\Desktop\C_shap\上課\作業\drink shop\drink shop\obj\Debug\drink shop.csproj.CoreCompileInputs.cache
+C:\Users\iii\Desktop\C_shap\上課\作業\drink shop\drink shop\obj\Debug\drink shop.exe
+C:\Users\iii\Desktop\C_shap\上課\作業\drink shop\drink shop\obj\Debug\drink shop.pdb
+C:\Users\iii\Desktop\C_shap\上課\作業\drink shop\drink shop\obj\Debug\drink_shop.Form2.resources
+C:\Users\iii\Desktop\C_shap\上課\作業\drink shop\drink shop\obj\Debug\drink_shop.Form3.resources
+C:\Users\iii\Desktop\C_shap\上課\專題\drink shop\drink shop\bin\Debug\drink shop.exe.config
+C:\Users\iii\Desktop\C_shap\上課\專題\drink shop\drink shop\bin\Debug\drink shop.exe
+C:\Users\iii\Desktop\C_shap\上課\專題\drink shop\drink shop\bin\Debug\drink shop.pdb
+C:\Users\iii\Desktop\C_shap\上課\專題\drink shop\drink shop\obj\Debug\drink shop.csproj.AssemblyReference.cache
+C:\Users\iii\Desktop\C_shap\上課\專題\drink shop\drink shop\obj\Debug\drink_shop.Form1.resources
+C:\Users\iii\Desktop\C_shap\上課\專題\drink shop\drink shop\obj\Debug\drink_shop.Form2.resources
+C:\Users\iii\Desktop\C_shap\上課\專題\drink shop\drink shop\obj\Debug\drink_shop.Form3.resources
+C:\Users\iii\Desktop\C_shap\上課\專題\drink shop\drink shop\obj\Debug\drink_shop.Properties.Resources.resources
+C:\Users\iii\Desktop\C_shap\上課\專題\drink shop\drink shop\obj\Debug\drink shop.csproj.GenerateResource.cache
+C:\Users\iii\Desktop\C_shap\上課\專題\drink shop\drink shop\obj\Debug\drink shop.csproj.CoreCompileInputs.cache
+C:\Users\iii\Desktop\C_shap\上課\專題\drink shop\drink shop\obj\Debug\drink shop.exe
+C:\Users\iii\Desktop\C_shap\上課\專題\drink shop\drink shop\obj\Debug\drink shop.pdb
+C:\Users\iii\Desktop\C_shap\上課\專題\drink shop\drink shop\obj\Debug\drink_shop.newUser.resources
+C:\Users\iii\Desktop\C_shap\上課\專題\drink shop\drink shop\obj\Debug\drink_shop.ModifyUser.resources
+C:\Users\Student\Desktop\C_shap0415\上課\專題\drink shop\drink shop\bin\Debug\drink shop.exe.config
+C:\Users\Student\Desktop\C_shap0415\上課\專題\drink shop\drink shop\bin\Debug\drink shop.exe
+C:\Users\Student\Desktop\C_shap0415\上課\專題\drink shop\drink shop\bin\Debug\drink shop.pdb
+C:\Users\Student\Desktop\C_shap0415\上課\專題\drink shop\drink shop\obj\Debug\drink shop.csproj.AssemblyReference.cache
+C:\Users\Student\Desktop\C_shap0415\上課\專題\drink shop\drink shop\obj\Debug\drink_shop.Form1.resources
+C:\Users\Student\Desktop\C_shap0415\上課\專題\drink shop\drink shop\obj\Debug\drink_shop.Form2.resources
+C:\Users\Student\Desktop\C_shap0415\上課\專題\drink shop\drink shop\obj\Debug\drink_shop.Form3.resources
+C:\Users\Student\Desktop\C_shap0415\上課\專題\drink shop\drink shop\obj\Debug\drink_shop.ModifyUser.resources
+C:\Users\Student\Desktop\C_shap0415\上課\專題\drink shop\drink shop\obj\Debug\drink_shop.newUser.resources
+C:\Users\Student\Desktop\C_shap0415\上課\專題\drink shop\drink shop\obj\Debug\drink_shop.Properties.Resources.resources
+C:\Users\Student\Desktop\C_shap0415\上課\專題\drink shop\drink shop\obj\Debug\drink shop.csproj.GenerateResource.cache
+C:\Users\Student\Desktop\C_shap0415\上課\專題\drink shop\drink shop\obj\Debug\drink shop.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\C_shap0415\上課\專題\drink shop\drink shop\obj\Debug\drink shop.exe
+C:\Users\Student\Desktop\C_shap0415\上課\專題\drink shop\drink shop\obj\Debug\drink shop.pdb
+C:\Users\user\Desktop\專題\drink shop\drink shop\bin\Debug\drink shop.exe.config
+C:\Users\user\Desktop\專題\drink shop\drink shop\bin\Debug\drink shop.exe
+C:\Users\user\Desktop\專題\drink shop\drink shop\bin\Debug\drink shop.pdb
+C:\Users\user\Desktop\專題\drink shop\drink shop\obj\Debug\drink shop.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\專題\drink shop\drink shop\obj\Debug\drink_shop.Form1.resources
+C:\Users\user\Desktop\專題\drink shop\drink shop\obj\Debug\drink_shop.Form2.resources
+C:\Users\user\Desktop\專題\drink shop\drink shop\obj\Debug\drink_shop.Form3.resources
+C:\Users\user\Desktop\專題\drink shop\drink shop\obj\Debug\drink_shop.ModifyUser.resources
+C:\Users\user\Desktop\專題\drink shop\drink shop\obj\Debug\drink_shop.newUser.resources
+C:\Users\user\Desktop\專題\drink shop\drink shop\obj\Debug\drink_shop.Properties.Resources.resources
+C:\Users\user\Desktop\專題\drink shop\drink shop\obj\Debug\drink shop.csproj.GenerateResource.cache
+C:\Users\user\Desktop\專題\drink shop\drink shop\obj\Debug\drink shop.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\專題\drink shop\drink shop\obj\Debug\drink shop.exe
+C:\Users\user\Desktop\專題\drink shop\drink shop\obj\Debug\drink shop.pdb
+C:\Users\Student\Desktop\專題\drink shop\drink shop\bin\Debug\drink shop.exe.config
+C:\Users\Student\Desktop\專題\drink shop\drink shop\bin\Debug\drink shop.exe
+C:\Users\Student\Desktop\專題\drink shop\drink shop\bin\Debug\drink shop.pdb
+C:\Users\Student\Desktop\專題\drink shop\drink shop\obj\Debug\drink shop.csproj.AssemblyReference.cache
+C:\Users\Student\Desktop\專題\drink shop\drink shop\obj\Debug\drink_shop.Form1.resources
+C:\Users\Student\Desktop\專題\drink shop\drink shop\obj\Debug\drink_shop.Form2.resources
+C:\Users\Student\Desktop\專題\drink shop\drink shop\obj\Debug\drink_shop.Form3.resources
+C:\Users\Student\Desktop\專題\drink shop\drink shop\obj\Debug\drink_shop.ModifyUser.resources
+C:\Users\Student\Desktop\專題\drink shop\drink shop\obj\Debug\drink_shop.newUser.resources
+C:\Users\Student\Desktop\專題\drink shop\drink shop\obj\Debug\drink_shop.Properties.Resources.resources
+C:\Users\Student\Desktop\專題\drink shop\drink shop\obj\Debug\drink shop.csproj.GenerateResource.cache
+C:\Users\Student\Desktop\專題\drink shop\drink shop\obj\Debug\drink shop.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\專題\drink shop\drink shop\obj\Debug\drink shop.exe
+C:\Users\Student\Desktop\專題\drink shop\drink shop\obj\Debug\drink shop.pdb
+C:\Users\Student\Desktop\專題\drink shop\drink shop\obj\Debug\drink_shop.FormOrder.resources
